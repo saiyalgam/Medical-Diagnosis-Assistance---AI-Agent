@@ -1,0 +1,8 @@
+Patient Name: John Smith
+Age: 62
+Chief Complaint: Severe, crushing chest pain started 2 hours ago, radiating to the left arm and jaw. Patient is sweating profusely and reports significant shortness of breath.
+
+History: History of hypertension and high cholesterol. Smoker for 30 years.
+Vitals: BP 160/100 mmHg, Heart Rate 110 bpm.
+ECG Results: Shows clear ST-segment elevation in anterior leads (V1-V4).
+Physical Exam: Lungs are clear. No abdominal tenderness. Neurological exam is normal. Patient appears distressed but is coherent.

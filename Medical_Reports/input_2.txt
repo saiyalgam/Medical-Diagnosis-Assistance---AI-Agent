@@ -1,0 +1,8 @@
+Patient Name: Jane Doe
+Age: 45
+Chief Complaint: Chronic fatigue, unintended weight loss of 15 lbs over 3 months, and persistent, dull abdominal pain. Also reports intermittent low-grade fevers.
+
+History: No significant prior medical history.
+Vitals: Normal.
+Lab Results: Mild anemia noted. Inflammatory markers (ESR, CRP) are slightly elevated.
+Physical Exam: Mild tenderness in the lower right abdomen. Otherwise unremarkable. Patient reports feeling worried and tired but denies specific mood changes.
